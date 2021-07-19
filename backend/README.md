@@ -11,7 +11,7 @@ Install the dependencies and devDependencies.
 ```sh
 cd backend
 pip install pipenv
-pipenv installl
+pipenv install
 ```
 
 To execute from the cli...
